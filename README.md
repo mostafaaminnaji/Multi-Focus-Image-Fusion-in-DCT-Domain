@@ -3,13 +3,13 @@ Multi-Focus Image Fusion in DCT Domain using Variance and Energy of Laplacian an
 
 Download original Journal Paper from here: http://dx.doi.org/10.22044/jadm.2017.5169.1624 
 
-article title: Multi-Focus Image Fusion in DCT Domain using Variance and Energy of Laplacian and Correlation Coefficient for Visual Sensor Networks
+Article title: Multi-Focus Image Fusion in DCT Domain using Variance and Energy of Laplacian and Correlation Coefficient for Visual Sensor Networks
 
 (C)	Mostafa Amin-Naji, Babol Noshirvani University of Technology, Mostafa.Amin.Naji@Gmail.com, PLEASE CITE THE ABOVE PAPERS IF YOU USE THIS CODE My Official Website: www.Amin-Naji.com
 
-Multi-focus image fusion in DCT domain based on correlation coefficient MATLAB Code is the simulation of the following multi-focus image fusion methods in DCT domain:
+The Matlab Code of Multi-Focus Image Fusion in DCT Domain using Variance and Energy of Laplacian and Correlation Coefficient for Visual Sensor Networks,  is presented for below methods in DCT domain:
 
-(1) DCT+Corr (2) DCT+Corr+CV
+(1) DCT+Corr (2) DCT+Eng_Corr  (3) DCT+VOL (4) DCT+EOL 
 
 proposed in:
 
